@@ -1,1 +1,8 @@
 /* your code here */
+.logos{
+	height:60px;
+}
+.top{
+	display:flex;
+	justify-content:space-between;
+}
