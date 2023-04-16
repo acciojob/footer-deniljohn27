@@ -13,7 +13,7 @@ h3{
 	font-size:25px;
 	margin-bottom:5px;
 }
-.content{
+footer{
 	background-color:black;
 	color:white;
 	padding:25px;
@@ -32,9 +32,15 @@ h3{
 	flex-direction:column;
 	justify-content:space-between;
 }
+.linkbox>p{
+	margin:0;
+	padding:0;
+}
 .bottom-details{
 	display:flex;
 	justify-content:space-between;
+	padding:0 20px;
 	background-color:#2c303a;
 	color:#B0B1B5;
+	margin:5px;
 }
