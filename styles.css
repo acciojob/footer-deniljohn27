@@ -1,8 +1,19 @@
 /* your code here */
+
 .logos{
 	height:60px;
 }
 .top{
 	display:flex;
+	justify-content:space-between;
+}
+.link-boxes{
+	display:flex;
+	justify-content:space-between;
+	
+}
+.linkbox{
+	display:flex;
+	flex-direction:column;
 	justify-content:space-between;
 }
