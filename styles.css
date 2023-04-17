@@ -44,3 +44,7 @@ footer{
 	color:#B0B1B5;
 	margin:5px;
 }
+.media-icons{
+	display:flex;
+	justify-cont:space-between;
+}
